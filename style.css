@@ -1,0 +1,27 @@
+ul.nav{
+    margin: left 0px;
+    padding-left: 0px;
+    list-style: none;
+
+}
+
+
+.nav li{
+    float: left;
+}
+ul.nav a{
+    display: block;
+    width: 7em;
+    padding: 10px;
+    margin: 0 5px;
+    background-color: green;
+    border: 1px dashed blue;  
+    text-decoration: none;
+    color: white;
+    text-align: center;
+
+}
+ul.nav a:hover{
+    background-color: brown;
+    color: aqua;
+}
